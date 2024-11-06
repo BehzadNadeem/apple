@@ -1,0 +1,35 @@
+.parent{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 20px;
+    color: white;
+    padding: 3px;
+    background-color: rgb(60, 57, 57);
+}
+
+.parent-2{
+    display: flex;
+    overflow-x: hidden;
+}
+.parent-3{
+    background-color: antiquewhite;
+}
+.parent-3 p{
+    text-align: center;
+    
+}
+.parent-4{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 10px;
+}
+.parent-4 p{
+    color: blue;
+    font-style: italic;
+    text-decoration: underline;
+}
+.parent-4 h5{
+    font-style: italic;
+}
